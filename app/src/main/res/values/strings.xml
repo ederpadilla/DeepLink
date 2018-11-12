@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DeepLink</string>
+    <string name="filter_view_http_gizmos">Sample</string>
+</resources>
